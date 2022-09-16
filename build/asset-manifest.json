@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e87eff6.css",
+    "main.js": "/static/js/main.411cf786.js",
+    "static/js/787.61404a03.chunk.js": "/static/js/787.61404a03.chunk.js",
+    "static/media/banner_bg.png": "/static/media/banner_bg.22be080bb4c6ca3ca9ab.png",
+    "static/media/logo_lg.png": "/static/media/logo_lg.42967ad18b09bd047c64.png",
+    "static/media/logo_instagram.png": "/static/media/logo_instagram.67a282db54744b287a46.png",
+    "static/media/logo_naverblog.png": "/static/media/logo_naverblog.fcc7ea19afe73ca4b31a.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.6e87eff6.css.map": "/static/css/main.6e87eff6.css.map",
+    "main.411cf786.js.map": "/static/js/main.411cf786.js.map",
+    "787.61404a03.chunk.js.map": "/static/js/787.61404a03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e87eff6.css",
+    "static/js/main.411cf786.js"
+  ]
+}
